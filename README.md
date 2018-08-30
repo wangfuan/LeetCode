@@ -1,6 +1,6 @@
 LeetCode
 ========
-leet
+===
 LeetCode solutions in C++ 11. (From Easy to Hard)
 
 |NO.|Title|Solution|Add Date|Difficulty|
